@@ -1,0 +1,28 @@
+body {
+
+    font-family: sans-serif;
+
+}
+
+#shape {
+
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+
+}
+
+.bold {
+
+    font-weight: bold;
+
+}
+
+.zagolovok{
+    font-style: Agbalumo;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 400;
+}
